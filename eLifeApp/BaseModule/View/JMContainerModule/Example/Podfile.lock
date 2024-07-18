@@ -1,0 +1,695 @@
+PODS:
+  - FCRichTabBarModule (1.0.0)
+  - JDAresToastModule (1.10.1):
+    - JDBAresAdapterModule (< 2.0.0, >= 1.0.0)
+  - JDBAPISignModule (1.0.3):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBAPMModule (2.0.0)
+  - JDBAppearanceModule (1.1.1):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBAresAdapterModule (1.7.19)
+  - JDBBaseInfoModule (1.0.30)
+  - JDBDandelionLibraryModule (1.0.3)
+  - JDBEECrashModule (1.1.9):
+    - JDBEECrashModule/JDBEECrashModule_libs (= 1.1.9)
+  - JDBEECrashModule/JDBEECrashModule_libs (1.1.9):
+    - JDBEECrashModule/JDBEECrashModule_libs/JDCrash_2.0.2_2 (= 1.1.9)
+  - JDBEECrashModule/JDBEECrashModule_libs/JDCrash_2.0.2_2 (1.1.9)
+  - JDBFingerPrintModule (3.0.15):
+    - JDBJRRiskModule (< 2.0.0, >= 1.0.0)
+  - JDBFontModule (1.6.13):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBHttpDnsModule (2.18.34):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBJRCryptoModule (2.4.6):
+    - JDBJRCryptoModule/JDBJRCryptoModule_libs (= 2.4.6)
+  - JDBJRCryptoModule/JDBJRCryptoModule_libs (2.4.6):
+    - JDBJRCryptoModule/JDBJRCryptoModule_libs/CryptoLib_2.4.6 (= 2.4.6)
+  - JDBJRCryptoModule/JDBJRCryptoModule_libs/CryptoLib_2.4.6 (2.4.6)
+  - JDBJRRiskModule (1.2.36):
+    - JDBJRRiskModule/JDBJRRiskModule_libs (= 1.2.36)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBJRRiskModule/JDBJRRiskModule_libs (1.2.36):
+    - JDBJRRiskModule/JDBJRRiskModule_libs/JDBJRRiskSDK_3.9.128.18 (= 1.2.36)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBJRRiskModule/JDBJRRiskModule_libs/JDBJRRiskSDK_3.9.128.18 (1.2.36):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBLocalizationModule (2.8.4):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBlueToothModule (1.0.3):
+    - JDBAresAdapterModule (< 2.0.0, >= 1.0.0)
+  - JDBMAUIDefaultModule (1.0.2):
+    - JDBAresAdapterModule (< 2.0.0, >= 1.0.0)
+  - JDBMediaEditModule (1.0.20):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBLocalizationModule (< 3.0.0, >= 2.0.0)
+    - JDBUIKitModule (< 4.0.0, >= 3.0.0)
+    - JDTGPUImageModule (< 2.0.0, >= 1.0.0)
+  - JDBMediaPickerModule (1.3.24-beta1):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBMediaEditModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBUIKitModule (< 4.0.0, >= 3.0.0)
+  - JDBMobileConfigModule (1.0.24):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+  - JDBMTAModule (2.1.27):
+    - JDBMTAModule/JDBMTAModule_libs (= 2.1.27)
+  - JDBMTAModule/JDBMTAModule_libs (2.1.27):
+    - JDBMTAModule/JDBMTAModule_libs/JDMTA_2.1.27 (= 2.1.27)
+  - JDBMTAModule/JDBMTAModule_libs/JDMTA_2.1.27 (2.1.27)
+  - JDBNWSocketModule (1.0.11):
+    - JDTCocoaAsyncSocketModule (< 2.0.0, >= 1.0.0)
+  - JDBPHCModule (1.1.11):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBFingerPrintModule (< 4.0.0, >= 3.0.0)
+  - JDBRouterModule (2.0.15)
+  - JDBSDWebImageModule (2.5.4)
+  - JDBSignServiceModule (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBSignServiceModule/JDBSignServiceModule_libs (= 1.0.9)
+  - JDBSignServiceModule/JDBSignServiceModule_libs (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBSignServiceModule/JDBSignServiceModule_libs/JDSignServiceSDK_1.0.0 (= 1.0.9)
+  - JDBSignServiceModule/JDBSignServiceModule_libs/JDSignServiceSDK_1.0.0 (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBStorageModule (2.0.9)
+  - JDBUIJCapVerifyModule (3.2.75):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+  - JDBUIKitModule (3.80.10):
+    - JDBAppearanceModule (< 2.0.0, >= 1.0.0)
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBLocalizationModule (< 3.0.0, >= 2.0.0)
+    - JDBMobileConfigModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBUtilsModule (< 2.0.0, >= 1.0.0)
+    - JDTLottieModule (< 2.0.0, >= 1.0.0)
+  - JDBUniversalPushServiceModule (2.1.3):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDTAsyncSocketModule (< 2.0.0, >= 1.0.0)
+  - JDBUtilsModule (1.0.15):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JDBVideoCallModule (1.3.51-beta9):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBSDWebImageModule (< 3.0.0, >= 2.0.0)
+    - JDBVideoCallModule/JDBVideoCallModule_libs (= 1.3.51-beta9)
+    - JDTMasonry (< 3.0.0, >= 2.0.0)
+    - JDVPinyinSearchModule (< 2.0.0, >= 1.0.0)
+  - JDBVideoCallModule/JDBVideoCallModule_libs (1.3.51-beta9):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBSDWebImageModule (< 3.0.0, >= 2.0.0)
+    - JDBVideoCallModule/JDBVideoCallModule_libs/JDRtcVideoFramework_3.0.1188 (= 1.3.51-beta9)
+    - JDTMasonry (< 3.0.0, >= 2.0.0)
+    - JDVPinyinSearchModule (< 2.0.0, >= 1.0.0)
+  - JDBVideoCallModule/JDBVideoCallModule_libs/JDRtcVideoFramework_3.0.1188 (1.3.51-beta9):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBSDWebImageModule (< 3.0.0, >= 2.0.0)
+    - JDTMasonry (< 3.0.0, >= 2.0.0)
+    - JDVPinyinSearchModule (< 2.0.0, >= 1.0.0)
+  - JDMediaMakerModule (4.0.7)
+  - JDMiniAppModule (1.27.21):
+    - JDBAresAdapterModule (< 2.0.0, >= 1.0.0)
+  - JDTAFNetworkingModule (1.0.14)
+  - JDTAsyncSocketModule (1.0.9)
+  - JDTCocoaAsyncSocketModule (1.0.2)
+  - JDTFCUUIDModule (1.0.5):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDTUICKeyChainStoreModule (< 2.0.0, >= 1.0.0)
+  - JDTGPUImageModule (1.0.6)
+  - JDTLottieModule (1.0.7)
+  - JDTMasonry (2.1.0)
+  - JDTMJExtensionModule (1.0.8)
+  - JDTOpenSSLModule (1.0.5):
+    - JDTOpenSSLModule/JDTOpenSSLModule_libs (= 1.0.5)
+  - JDTOpenSSLModule/JDTOpenSSLModule_libs (1.0.5):
+    - JDTOpenSSLModule/JDTOpenSSLModule_libs/openssl_2.0.5 (= 1.0.5)
+  - JDTOpenSSLModule/JDTOpenSSLModule_libs/openssl_2.0.5 (1.0.5)
+  - JDTOpenUDIDModule (1.0.8)
+  - JDTReachabilityModule (1.1.1)
+  - JDTUICKeyChainStoreModule (1.0.4)
+  - JDVDanmuNetworkModule (2.0.10):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDVSRWebSocketModule (< 2.0.0, >= 1.0.0)
+  - JDVPinyinSearchModule (1.0.1)
+  - JDVSRWebSocketModule (1.0.0)
+  - JMAFNetworkModule (1.0.4):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDTAFNetworkingModule (< 2.0.0, >= 1.0.0)
+  - JMAPMBuryingPointModule (1.0.15):
+    - JDBHttpDnsModule (< 3.0.0, >= 2.0.0)
+    - JDBMobileConfigModule (< 2.0.0, >= 1.0.0)
+    - JDTAFNetworkingModule (< 2.0.0, >= 1.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMFMDBModule (< 2.0.0, >= 1.0.0)
+    - JMJasterModule (< 2.0.0, >= 1.0.0)
+  - JMBaseViewModule (2.1.36):
+    - JDAresToastModule (= 1.10.1)
+    - JDBAPISignModule (= 1.0.3)
+    - JDBAPMModule (= 2.0.0)
+    - JDBAppearanceModule (= 1.1.1)
+    - JDBAresAdapterModule (= 1.7.19)
+    - JDBBaseInfoModule (= 1.0.30)
+    - JDBDandelionLibraryModule (= 1.0.3)
+    - JDBEECrashModule (= 1.1.9)
+    - JDBFingerPrintModule (= 3.0.15)
+    - JDBFontModule (= 1.6.13)
+    - JDBHttpDnsModule (= 2.18.34)
+    - JDBJRCryptoModule (= 2.4.6)
+    - JDBJRRiskModule (= 1.2.36)
+    - JDBLocalizationModule (= 2.8.4)
+    - JDBlueToothModule (= 1.0.3)
+    - JDBMAUIDefaultModule (= 1.0.2)
+    - JDBMediaEditModule (= 1.0.20)
+    - JDBMediaPickerModule (= 1.3.24-beta1)
+    - JDBMobileConfigModule (= 1.0.24)
+    - JDBMTAModule (= 2.1.27)
+    - JDBPHCModule (= 1.1.11)
+    - JDBRouterModule (= 2.0.15)
+    - JDBSDWebImageModule (= 2.5.4)
+    - JDBSignServiceModule (= 1.0.9)
+    - JDBStorageModule (= 2.0.9)
+    - JDBUIJCapVerifyModule (= 3.2.75)
+    - JDBUIKitModule (= 3.80.10)
+    - JDBUniversalPushServiceModule (= 2.1.3)
+    - JDBUtilsModule (= 1.0.15)
+    - JDBVideoCallModule (= 1.3.51-beta9)
+    - JDMediaMakerModule (= 4.0.7)
+    - JDMiniAppModule (= 1.27.21)
+    - JDTAFNetworkingModule (= 1.0.14)
+    - JDTAsyncSocketModule (= 1.0.9)
+    - JDTFCUUIDModule (= 1.0.5)
+    - JDTGPUImageModule (= 1.0.6)
+    - JDTLottieModule (= 1.0.7)
+    - JDTMasonry (= 2.1.0)
+    - JDTMJExtensionModule (= 1.0.8)
+    - JDTOpenSSLModule (= 1.0.5)
+    - JDTOpenUDIDModule (= 1.0.8)
+    - JDTReachabilityModule (= 1.1.1)
+    - JDTUICKeyChainStoreModule (= 1.0.4)
+    - JDVDanmuNetworkModule (= 2.0.10)
+    - JDVPinyinSearchModule (= 1.0.1)
+    - JDVSRWebSocketModule (= 1.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMComponentCoreModule (= 1.0.5)
+    - JMComponentTextKitModule (= 1.0.0)
+    - JMDLArMakeupToolModule (= 1.0.41)
+    - JMDSMHttpLogicModule (< 2.0.0, >= 1.0.0)
+    - JMFlexLibModule (= 1.0.4)
+    - JMJDMTASDKModule (< 3.0.0, >= 2.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMMJRefreshModule (< 2.0.0, >= 1.0.0)
+    - JMProtobufModule (< 2.0.0, >= 1.0.0)
+    - JMRenderCoreModule (= 1.0.3)
+    - JMShareManagerModule (< 2.0.0, >= 1.0.0)
+    - JMYogaModule (= 1.0.7)
+  - JMCategoryModule (2.0.27):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBSDWebImageModule (< 3.0.0, >= 2.0.0)
+    - JMFMDBModule (< 2.0.0, >= 1.0.0)
+    - JMLocalizationModule (< 2.0.0, >= 1.0.0)
+    - JMMBProgressHUDModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule (< 2.0.0, >= 1.0.0)
+  - JMComponentCoreModule (1.0.5):
+    - JMRenderCoreModule (< 2.0.0, >= 1.0.0)
+    - JMYogaModule (< 2.0.0, >= 1.0.0)
+  - JMComponentTextKitModule (1.0.0):
+    - JMComponentCoreModule (< 2.0.0, >= 1.0.0)
+    - JMRenderCoreModule (< 2.0.0, >= 1.0.0)
+  - JMConfigManagerModule (1.0.8):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+  - JMConnectModule (1.0.23):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JMBaseViewModule (< 3.0.0, >= 2.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMJDMTASDKModule (< 3.0.0, >= 2.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+  - JMContainerModule (1.2.17):
+    - FCRichTabBarModule (< 2.0.0, >= 1.0.0)
+    - JDBAPMModule (< 3.0.0, >= 2.0.0)
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBHttpDnsModule (< 3.0.0, >= 2.0.0)
+    - JDBMobileConfigModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDTAFNetworkingModule (< 2.0.0, >= 1.0.0)
+    - JMAFNetworkModule (< 2.0.0, >= 1.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMBaseViewModule (< 3.0.0, >= 2.0.0)
+    - JMConfigManagerModule (< 2.0.0, >= 1.0.0)
+    - JMConnectModule (< 2.0.0, >= 1.0.0)
+    - JMCookieManagerModule (< 3.0.0, >= 2.0.0)
+    - JMDSMHttpModule (< 2.0.0, >= 1.0.0)
+    - JMDSMProtocolModule (< 2.0.0, >= 1.0.0)
+    - JMFMDBModule (< 2.0.0, >= 1.0.0)
+    - JMHttpModule (< 3.0.0, >= 2.0.0)
+    - JMJDMTASDKModule (< 3.0.0, >= 2.0.0)
+    - JMLoginModule (< 3.0.0, >= 2.0.0)
+    - JMLoginUIModule (< 2.0.0, >= 1.0.0)
+    - JMShareManagerModule (< 2.0.0, >= 1.0.0)
+    - JMTestFlightFrameworkModule (< 2.0.0, >= 1.0.0)
+    - JMThemeModule (< 2.0.0, >= 1.0.0)
+  - JMCookieManagerModule (2.0.4):
+    - JDTAFNetworkingModule (< 2.0.0, >= 1.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMLoginModule (< 3.0.0, >= 2.0.0)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+  - JMDLArMakeupToolModule (1.0.41):
+    - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs (= 1.0.41)
+  - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs (1.0.41):
+    - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs/FaceKeyCoreML_1.0.47 (= 1.0.41)
+    - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs/JdArMakeup_1.0.40 (= 1.0.41)
+    - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs/JDARVROpenCV_1.0.4 (= 1.0.41)
+  - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs/FaceKeyCoreML_1.0.47 (1.0.41)
+  - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs/JdArMakeup_1.0.40 (1.0.41)
+  - JMDLArMakeupToolModule/JMDLArMakeupToolModule_libs/JDARVROpenCV_1.0.4 (1.0.41)
+  - JMDSMHttpLogicModule (1.0.5):
+    - JDAresToastModule (= 1.10.1)
+    - JDBAPISignModule (= 1.0.3)
+    - JDBAPMModule (= 2.0.0)
+    - JDBAppearanceModule (= 1.1.1)
+    - JDBAresAdapterModule (= 1.7.19)
+    - JDBBaseInfoModule (= 1.0.30)
+    - JDBDandelionLibraryModule (= 1.0.3)
+    - JDBEECrashModule (= 1.1.9)
+    - JDBFingerPrintModule (= 3.0.15)
+    - JDBFontModule (= 1.6.13)
+    - JDBHttpDnsModule (= 2.18.34)
+    - JDBJRCryptoModule (= 2.4.6)
+    - JDBJRRiskModule (= 1.2.36)
+    - JDBLocalizationModule (= 2.8.4)
+    - JDBlueToothModule (= 1.0.3)
+    - JDBMAUIDefaultModule (= 1.0.2)
+    - JDBMediaEditModule (= 1.0.20)
+    - JDBMediaPickerModule (= 1.3.24-beta1)
+    - JDBMobileConfigModule (= 1.0.24)
+    - JDBMTAModule (= 2.1.27)
+    - JDBPHCModule (= 1.1.11)
+    - JDBRouterModule (= 2.0.15)
+    - JDBSDWebImageModule (= 2.5.4)
+    - JDBSignServiceModule (= 1.0.9)
+    - JDBStorageModule (= 2.0.9)
+    - JDBUIJCapVerifyModule (= 3.2.75)
+    - JDBUIKitModule (= 3.80.10)
+    - JDBUniversalPushServiceModule (= 2.1.3)
+    - JDBUtilsModule (= 1.0.15)
+    - JDBVideoCallModule (= 1.3.51-beta9)
+    - JDMediaMakerModule (= 4.0.7)
+    - JDMiniAppModule (= 1.27.21)
+    - JDTAFNetworkingModule (= 1.0.14)
+    - JDTAsyncSocketModule (= 1.0.9)
+    - JDTFCUUIDModule (= 1.0.5)
+    - JDTGPUImageModule (= 1.0.6)
+    - JDTLottieModule (= 1.0.7)
+    - JDTMasonry (= 2.1.0)
+    - JDTMJExtensionModule (= 1.0.8)
+    - JDTOpenSSLModule (= 1.0.5)
+    - JDTOpenUDIDModule (= 1.0.8)
+    - JDTReachabilityModule (= 1.1.1)
+    - JDTUICKeyChainStoreModule (= 1.0.4)
+    - JDVDanmuNetworkModule (= 2.0.10)
+    - JDVPinyinSearchModule (= 1.0.1)
+    - JDVSRWebSocketModule (= 1.0.0)
+    - JMAFNetworkModule (< 2.0.0, >= 1.0.0)
+    - JMComponentCoreModule (= 1.0.5)
+    - JMComponentTextKitModule (= 1.0.0)
+    - JMDLArMakeupToolModule (= 1.0.41)
+    - JMDSMHttpModule (< 2.0.0, >= 1.0.0)
+    - JMDSMProtocolModule (< 2.0.0, >= 1.0.0)
+    - JMFlexLibModule (= 1.0.4)
+    - JMRenderCoreModule (= 1.0.3)
+    - JMYogaModule (= 1.0.7)
+  - JMDSMHttpModule (1.0.24):
+    - JDBPHCModule (< 2.0.0, >= 1.0.0)
+    - JDTAFNetworkingModule (< 2.0.0, >= 1.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMDSMProtocolModule (< 2.0.0, >= 1.0.0)
+    - JMJasterModule (< 2.0.0, >= 1.0.0)
+  - JMDSMProtocolModule (1.0.2)
+  - JMFlexLibModule (1.0.4):
+    - JDBSDWebImageModule (< 3.0.0, >= 2.0.0)
+    - JMYogaModule (< 2.0.0, >= 1.0.0)
+  - JMFMDBModule (1.0.4):
+    - JMLocalizationModule (< 2.0.0, >= 1.0.0)
+    - JMSQLCipherModule (< 2.0.0, >= 1.0.0)
+  - JMHttpModule (2.0.4):
+    - JMAFNetworkModule (< 2.0.0, >= 1.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMJasterModule (< 2.0.0, >= 1.0.0)
+  - JMJasterModule (1.0.2)
+  - JMJDMTASDKModule (2.0.33):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBMTAModule (< 3.0.0, >= 2.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMLoginModule (< 3.0.0, >= 2.0.0)
+  - JMJMBufpbobjcModule (2.0.34):
+    - JMProtobufModule (< 2.0.0, >= 1.0.0)
+  - JMLocalizationModule (1.0.5)
+  - JMLoginModule (2.1.66):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBEECrashModule (< 2.0.0, >= 1.0.0)
+    - JDBFingerPrintModule (< 4.0.0, >= 3.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBUIJCapVerifyModule (< 4.0.0, >= 3.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMDSMProtocolModule (< 2.0.0, >= 1.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMLocalizationModule (< 2.0.0, >= 1.0.0)
+    - JMLoginModule/JMLoginModule_libs (= 2.1.66)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+    - JMUserCenterModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule (< 2.0.0, >= 1.0.0)
+  - JMLoginModule/JMLoginModule_libs (2.1.66):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBEECrashModule (< 2.0.0, >= 1.0.0)
+    - JDBFingerPrintModule (< 4.0.0, >= 3.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBUIJCapVerifyModule (< 4.0.0, >= 3.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMDSMProtocolModule (< 2.0.0, >= 1.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMLocalizationModule (< 2.0.0, >= 1.0.0)
+    - JMLoginModule/JMLoginModule_libs/JDMobileLoginSDK_1.1 (= 2.1.66)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+    - JMUserCenterModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule (< 2.0.0, >= 1.0.0)
+  - JMLoginModule/JMLoginModule_libs/JDMobileLoginSDK_1.1 (2.1.66):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBEECrashModule (< 2.0.0, >= 1.0.0)
+    - JDBFingerPrintModule (< 4.0.0, >= 3.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JDBUIJCapVerifyModule (< 4.0.0, >= 3.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMDSMProtocolModule (< 2.0.0, >= 1.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMLocalizationModule (< 2.0.0, >= 1.0.0)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+    - JMUserCenterModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule (< 2.0.0, >= 1.0.0)
+  - JMLoginUIModule (1.0.37):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDTMasonry (< 3.0.0, >= 2.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMBaseViewModule (< 3.0.0, >= 2.0.0)
+    - JMJDMTASDKModule (< 3.0.0, >= 2.0.0)
+    - JMLoginModule (< 3.0.0, >= 2.0.0)
+    - JMTTTAttributedLabelModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule (< 2.0.0, >= 1.0.0)
+  - JMMBProgressHUDModule (1.0.1)
+  - JMMinizipModule (1.0.1)
+  - JMMJRefreshModule (1.0.2)
+  - JMMMKVCoreModule (1.0.1)
+  - JMMMKVModule (1.0.0):
+    - JMMMKVCoreModule (< 2.0.0, >= 1.0.0)
+  - JMOpenSSLUniversalModule (1.0.3):
+    - JMOpenSSLUniversalModule/JMOpenSSLUniversalModule_libs (= 1.0.3)
+  - JMOpenSSLUniversalModule/JMOpenSSLUniversalModule_libs (1.0.3):
+    - JMOpenSSLUniversalModule/JMOpenSSLUniversalModule_libs/OpenSSL_1.0.9 (= 1.0.3)
+  - JMOpenSSLUniversalModule/JMOpenSSLUniversalModule_libs/OpenSSL_1.0.9 (1.0.3)
+  - JMProtobufModule (1.1.1)
+  - JMRenderCoreModule (1.0.3)
+  - JMShareManagerModule (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JMShareManagerModule/JMShareManagerModule_libs (= 1.0.9)
+  - JMShareManagerModule/JMShareManagerModule_libs (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JMShareManagerModule/JMShareManagerModule_libs/OpenSDK_1.8.6.2 (= 1.0.9)
+    - JMShareManagerModule/JMShareManagerModule_libs/PublishSdk_3.3.9 (= 1.0.9)
+  - JMShareManagerModule/JMShareManagerModule_libs/OpenSDK_1.8.6.2 (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JMShareManagerModule/JMShareManagerModule_libs/PublishSdk_3.3.9 (1.0.9):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JMSQLCipherModule (1.0.1):
+    - JMSQLCipherModule/JMSQLCipherModule_libs (= 1.0.1)
+  - JMSQLCipherModule/JMSQLCipherModule_libs (1.0.1):
+    - JMSQLCipherModule/JMSQLCipherModule_libs/SQLCipher_1.0.0 (= 1.0.1)
+  - JMSQLCipherModule/JMSQLCipherModule_libs/SQLCipher_1.0.0 (1.0.1)
+  - JMTcpModule (2.0.21):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBNWSocketModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JMAPMBuryingPointModule (< 2.0.0, >= 1.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMLocalizationModule (< 2.0.0, >= 1.0.0)
+    - JMOpenSSLUniversalModule (< 2.0.0, >= 1.0.0)
+  - JMTestFlightFrameworkModule (1.0.6):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+  - JMThemeModule (1.0.11):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JDTAFNetworkingModule (< 2.0.0, >= 1.0.0)
+    - JMBaseViewModule (< 3.0.0, >= 2.0.0)
+    - JMCategoryModule (< 3.0.0, >= 2.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMMinizipModule (< 2.0.0, >= 1.0.0)
+    - JMTcpModule (< 3.0.0, >= 2.0.0)
+    - JMYYKitModule (< 2.0.0, >= 1.0.0)
+  - JMTTTAttributedLabelModule (1.0.3)
+  - JMUserCenterModule (1.0.20):
+    - JDBRouterModule (< 3.0.0, >= 2.0.0)
+    - JMJMBufpbobjcModule (< 3.0.0, >= 2.0.0)
+    - JMMMKVModule (< 2.0.0, >= 1.0.0)
+  - JMYogaModule (1.0.7)
+  - JMYYKitModule (1.0.4):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule/JMYYKitModule_libs (= 1.0.4)
+    - JMYYKitModule/no-arc (= 1.0.4)
+  - JMYYKitModule/JMYYKitModule_libs (1.0.4):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+    - JMYYKitModule/JMYYKitModule_libs/WebP_1.0.0 (= 1.0.4)
+  - JMYYKitModule/JMYYKitModule_libs/WebP_1.0.0 (1.0.4):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+  - JMYYKitModule/no-arc (1.0.4):
+    - JDBBaseInfoModule (< 2.0.0, >= 1.0.0)
+
+DEPENDENCIES:
+  - FCRichTabBarModule (= 1.0.0)
+  - JDBAPMModule (= 2.0.0)
+  - JDBBaseInfoModule (= 1.0.30)
+  - JDBHttpDnsModule (= 2.18.34)
+  - JDBMobileConfigModule (= 1.0.24)
+  - JDBRouterModule (= 2.0.15)
+  - JDTAFNetworkingModule (= 1.0.14)
+  - JMAFNetworkModule (= 1.0.4)
+  - JMAPMBuryingPointModule (= 1.0.15)
+  - JMBaseViewModule (= 2.1.36)
+  - JMConfigManagerModule (= 1.0.8)
+  - JMConnectModule (= 1.0.23)
+  - JMContainerModule (from `../`)
+  - JMCookieManagerModule (= 2.0.4)
+  - JMDSMHttpModule (= 1.0.24)
+  - JMDSMProtocolModule (= 1.0.2)
+  - JMFMDBModule (= 1.0.4)
+  - JMHttpModule (= 2.0.4)
+  - JMJDMTASDKModule (= 2.0.33)
+  - JMLoginModule (= 2.1.66)
+  - JMLoginUIModule (= 1.0.37)
+  - JMShareManagerModule (= 1.0.9)
+  - JMTestFlightFrameworkModule (= 1.0.6)
+  - JMThemeModule (= 1.0.11)
+
+SPEC REPOS:
+  http://coding.jd.com/IBKFXHjdapp/IBKFXHjdapp_spec.git:
+    - JDAresToastModule
+    - JDBlueToothModule
+    - JDMediaMakerModule
+    - JDMiniAppModule
+  http://coding.jd.com/IBKFXHjdbase/IBKFXHjdbase_spec.git:
+    - JDBAPISignModule
+    - JDBAPMModule
+    - JDBAppearanceModule
+    - JDBAresAdapterModule
+    - JDBBaseInfoModule
+    - JDBDandelionLibraryModule
+    - JDBEECrashModule
+    - JDBFingerPrintModule
+    - JDBFontModule
+    - JDBHttpDnsModule
+    - JDBJRCryptoModule
+    - JDBJRRiskModule
+    - JDBLocalizationModule
+    - JDBMAUIDefaultModule
+    - JDBMediaEditModule
+    - JDBMediaPickerModule
+    - JDBMobileConfigModule
+    - JDBMTAModule
+    - JDBNWSocketModule
+    - JDBPHCModule
+    - JDBRouterModule
+    - JDBSDWebImageModule
+    - JDBSignServiceModule
+    - JDBStorageModule
+    - JDBUIJCapVerifyModule
+    - JDBUIKitModule
+    - JDBUniversalPushServiceModule
+    - JDBUtilsModule
+    - JDBVideoCallModule
+  http://coding.jd.com/IBKFXHjdThirdParty/IBKFXHjdThirdParty_spec.git:
+    - JDTAFNetworkingModule
+    - JDTAsyncSocketModule
+    - JDTCocoaAsyncSocketModule
+    - JDTFCUUIDModule
+    - JDTGPUImageModule
+    - JDTLottieModule
+    - JDTMasonry
+    - JDTMJExtensionModule
+    - JDTOpenSSLModule
+    - JDTOpenUDIDModule
+    - JDTReachabilityModule
+    - JDTUICKeyChainStoreModule
+  http://coding.jd.com/IBKFXHJDVVideo/IBKFXHJDVVideo_spec.git:
+    - JDVDanmuNetworkModule
+    - JDVPinyinSearchModule
+    - JDVSRWebSocketModule
+  http://coding.jd.com/IBKFXHjingmai/IBKFXHjingmai_spec.git:
+    - JMAFNetworkModule
+    - JMAPMBuryingPointModule
+    - JMBaseViewModule
+    - JMCategoryModule
+    - JMComponentCoreModule
+    - JMComponentTextKitModule
+    - JMConfigManagerModule
+    - JMConnectModule
+    - JMCookieManagerModule
+    - JMDLArMakeupToolModule
+    - JMDSMHttpLogicModule
+    - JMDSMHttpModule
+    - JMDSMProtocolModule
+    - JMFlexLibModule
+    - JMFMDBModule
+    - JMHttpModule
+    - JMJasterModule
+    - JMJDMTASDKModule
+    - JMJMBufpbobjcModule
+    - JMLocalizationModule
+    - JMLoginModule
+    - JMLoginUIModule
+    - JMMBProgressHUDModule
+    - JMMinizipModule
+    - JMMJRefreshModule
+    - JMMMKVCoreModule
+    - JMMMKVModule
+    - JMOpenSSLUniversalModule
+    - JMProtobufModule
+    - JMRenderCoreModule
+    - JMShareManagerModule
+    - JMSQLCipherModule
+    - JMTcpModule
+    - JMTestFlightFrameworkModule
+    - JMThemeModule
+    - JMTTTAttributedLabelModule
+    - JMUserCenterModule
+    - JMYogaModule
+    - JMYYKitModule
+  https://coding.jd.com/IBKFXHJDFrontApp/IBKFXHJDFrontApp_spec.git:
+    - FCRichTabBarModule
+
+EXTERNAL SOURCES:
+  JMContainerModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FCRichTabBarModule: 87a02bb974404231210ecb7d90acfc2835a7d3a0
+  JDAresToastModule: 2fa9999f3df0be8c22977c0a80d187e720a85aac
+  JDBAPISignModule: f3e17621eee108ca5b9356ac1185142aec4c351d
+  JDBAPMModule: 9211a90c681c890b8d0536030342dcfcd077a548
+  JDBAppearanceModule: bb069da74732535770377352f4d5c7eaf5cae1c6
+  JDBAresAdapterModule: c08e81afc12631a6d69886ed21af5080885d919f
+  JDBBaseInfoModule: cbd11fc711775391a6b7be208d030c4f8ccd2582
+  JDBDandelionLibraryModule: da72bcd0900471f86983fc7774fb4e648ec8a317
+  JDBEECrashModule: 678f1b9d6d5d07f6b0c98ccbcc719bc7aefb1fef
+  JDBFingerPrintModule: 4c645e11ac23042fded0bc7cdb67770541ba8a10
+  JDBFontModule: 66f16a331336be73041e0ddab74212ddd0dede1b
+  JDBHttpDnsModule: 6195f27b0d354b4fa1c30886b83e15aa5aef666f
+  JDBJRCryptoModule: 00c9d5c48991c4703e55979ab79378590a896629
+  JDBJRRiskModule: 6db77e35a972c8a0631b25d9da4d74f72a900a50
+  JDBLocalizationModule: 71a7cd0d8f89a5d655a24fa7f84a856d7bc7842f
+  JDBlueToothModule: f539255ec6979f0b99eee610bb3f49b5b5e119b7
+  JDBMAUIDefaultModule: a8f3c406c7d61417a456c48f92f1179664604d24
+  JDBMediaEditModule: a5f621c98cababe6eb5a18d01c440faf3efd8ff7
+  JDBMediaPickerModule: b4fd6751385ddac6b1faa22b403fb3f4c5850353
+  JDBMobileConfigModule: bff96273973350fc14b5726af1324d2dc0c9ddd4
+  JDBMTAModule: 751e284cf0bd66fd2b2981073daa54b883ef499a
+  JDBNWSocketModule: 6cdc95032bf5ebdb4bd16ecc98944f5456b0b322
+  JDBPHCModule: 1df553a5acc94710652ff97e6c8638d93d841671
+  JDBRouterModule: fd26d643318813330745c7cdeb8786b336bc046a
+  JDBSDWebImageModule: fe1108eae6bb9d44174015f3b11e480e30731cd4
+  JDBSignServiceModule: 1f7d3d247226b86384200e2cef60efd726866f55
+  JDBStorageModule: e4a6c5644d349a36c650197a1691f0600170994b
+  JDBUIJCapVerifyModule: 25b087c3ba26a7c7e476de34d78a5ff294e8a383
+  JDBUIKitModule: e66d7545855b9fc976bf6197ead6f60c2606a5dc
+  JDBUniversalPushServiceModule: f9e5a0b3baa5293bd356bfe68902638d685b470a
+  JDBUtilsModule: 6f04e7438bc59b4e0859e713afd5024450319f86
+  JDBVideoCallModule: 1b0217738de717a0af481d1e682bf7fada5f0b88
+  JDMediaMakerModule: b7518b431d4e154c785e3937c15e04836c05d42b
+  JDMiniAppModule: 81e15ec0a028f525ba9f7d7afcd7c0f5badb7ab4
+  JDTAFNetworkingModule: bb60b64f5f3b231624c4618e677bf53c02dc5386
+  JDTAsyncSocketModule: 4d1939591e3db8617a53df0701654d804c66f08e
+  JDTCocoaAsyncSocketModule: 00ccfdce15320cc92077f1e36fdc9ccf39878b61
+  JDTFCUUIDModule: 1d98bea47d7650fbea928cb7e6003a5d2aede0e9
+  JDTGPUImageModule: c2330f8e02d571d9ee2a27a081cca128c25bbee5
+  JDTLottieModule: 7288b75fca5325c943065aa7287081e7efbec77c
+  JDTMasonry: 30b153b4623ae27086310d4b5f96e51af98a440a
+  JDTMJExtensionModule: 25c91d7dd2f6603b6cb0551a77648066a86fab6e
+  JDTOpenSSLModule: 69390d5e6cb1ebc1ef1a13357eb2a162bda1d5ac
+  JDTOpenUDIDModule: 63ce4704f606d888e4dd9de1f0f96d47bee8041d
+  JDTReachabilityModule: 9263cb78572d321b24c76e9d22132f513242491c
+  JDTUICKeyChainStoreModule: a361d208969825880c95eb94d2572abee0f418cb
+  JDVDanmuNetworkModule: c330c5e37455855e5af8b60c4f4455d4c43adeb4
+  JDVPinyinSearchModule: b540bce327b8c0167bb55908e02a42783ebb32e6
+  JDVSRWebSocketModule: 24cab3d622be1fcecbbd9966c940b4ff9ef4bc5d
+  JMAFNetworkModule: 2a1466fd564e7e5890523d691749d9d42a7307c5
+  JMAPMBuryingPointModule: 27896cc1f192b0f2bef986d93046d9250f1edd93
+  JMBaseViewModule: a43ca1587106115457423be1a45555cd0086591d
+  JMCategoryModule: 9831829e0d0baf695c2a3c18dcbd025c7f488cd5
+  JMComponentCoreModule: 7ebd9d7d8b3b00c34eb42def0eccc2b1870eebf3
+  JMComponentTextKitModule: 82011e1b1a976a9651c415be1aab47828b22dc52
+  JMConfigManagerModule: 618b17478020d3f196ae42004ecb248f8be53495
+  JMConnectModule: 73d4c8598185a122636964197d1ba03db29be791
+  JMContainerModule: 71aec404ed9a0200f8aa382e32aae5d68e282783
+  JMCookieManagerModule: 873e9aee2fc78b9762b601bdd380688fb5bced60
+  JMDLArMakeupToolModule: 7c34377b7e19ab87d50c34a633e097ed5d4fdcbd
+  JMDSMHttpLogicModule: 62861c23ed163246bad06832c32b8cacfcd5a0db
+  JMDSMHttpModule: 11b23c625ef64735b326ff113b492bb12c67bfb8
+  JMDSMProtocolModule: dde0da67de24baee8042007336c65cf9f68aee7a
+  JMFlexLibModule: 94195f5f7ee8bb70a1f9c01b494db8725b16569b
+  JMFMDBModule: 4a68280155fb866add12946e8d15b50e98ff1728
+  JMHttpModule: c54f840fda3ec69eb545976ef67cb51919a66fb3
+  JMJasterModule: 814e06edeab252b438a24adb1dcd1081e27874cb
+  JMJDMTASDKModule: a35cb62677380e331b41381ad5989e556914e969
+  JMJMBufpbobjcModule: 732a1bdd8d4e74b849e6f0e625f487dfd7231ee1
+  JMLocalizationModule: f15141d326765dc78f1c812556423f5dcfb70dee
+  JMLoginModule: b61266ea28c020fd394c727d14b5153d2bd72923
+  JMLoginUIModule: fef7958796acbc115d9beb65659c9a7cf9077bb0
+  JMMBProgressHUDModule: f013d38d704ea6006dd4b92cb9ca736419a1ab5d
+  JMMinizipModule: 7b96adaba5912904973e3b2f70ab7875e1f72008
+  JMMJRefreshModule: f28081aad88c4151a2fca313a5f12f4b0a18566e
+  JMMMKVCoreModule: ec4ad8b1e4fd9fcd96e9a2cc57f3734af2aeccf3
+  JMMMKVModule: 6b6619e80895486de5c13a12782bcfcd0f3cf9fa
+  JMOpenSSLUniversalModule: ea2b2d83926b779892b8089d0ed03a1df3b7d6cb
+  JMProtobufModule: ffd690d7bc7f59962fa969c078bfe91dfee944e7
+  JMRenderCoreModule: d3eb326cfe26dd888bb15ee5a18265449e638027
+  JMShareManagerModule: 91771b99070f8962896b00e33194a46f9cfab16f
+  JMSQLCipherModule: d6c56c322865df4f4a02779eda45ce55dc892cf5
+  JMTcpModule: 10af9b5fbdaee3c50382e0ce855590aa7823bff7
+  JMTestFlightFrameworkModule: e7e0bc373e00e3da6e5afeb983692cd10649c856
+  JMThemeModule: a84987ca99d0bc331c2cc74a98577376dc2cee46
+  JMTTTAttributedLabelModule: 0720ff0f055caae9526f4c9e807ed7e2f809cbb4
+  JMUserCenterModule: 2c49be4ed18dc1e3f1e56b7f52d6cb08d98629f2
+  JMYogaModule: b3ab75670a7f754ea67bb658452795d8f60bcb4e
+  JMYYKitModule: 67597ace7b4d08469d28f703e751d49e3e1d3cab
+
+PODFILE CHECKSUM: 4fe090db2dd9d0f07b3be2b685f7e4be718e3673
+
+COCOAPODS: 1.11.2
