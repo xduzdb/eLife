@@ -14,12 +14,14 @@ struct GlobalProperties {
 }
 
 struct JHColor {
+    //系统紫色主题
     static let JHSystemColor = UIColor.init(red: 0.3, green: 0, blue: 0.8, alpha: 1)
     static let JHDarkThemeColor = UIColor.black
     static let JHLightThemeColor = UIColor.white
     static let JHDarkThemeCellColor = UIColor.init(red: 0.1, green: 0.1, blue: 0.1, alpha: 1)
+    static let JHDarkThemeTextColor = UIColor.white
+    static let JHLightThemeTextColor = UIColor.black
     
-//    static let JHIconPurple = UIColor.init(red: 0.4, green: 0, blue: 1, alpha: 1)
 }
 
 extension UIViewController {

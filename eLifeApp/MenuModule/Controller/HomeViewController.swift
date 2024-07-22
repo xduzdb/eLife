@@ -81,8 +81,8 @@ extension HomeViewController {
         baseTable.delegate              = self
         baseTable.separatorStyle        = .none
         baseTable.estimatedRowHeight    = 38.0
-//        baseTable.backgroundColor       = JHColor.JHDarkThemeColor
-        baseTable.backgroundColor       = JHColor.JHDarkThemeCellColor
+        baseTable.backgroundColor       = JHColor.JHDarkThemeColor
+//        baseTable.backgroundColor       = JHColor.JHDarkThemeCellColor
         
         baseTable.register(HomeTVCell.self, forCellReuseIdentifier: "menuCell")
         

@@ -63,7 +63,7 @@ class HomeTVCell: UITableViewCell {
         strLabel.font               = .systemFont(ofSize: 16)
         strLabel.textAlignment      = .center
         strLabel.backgroundColor    = .clear
-        strLabel.textColor          = .black
+        strLabel.textColor          = JHColor.JHDarkThemeTextColor
         contentView.addSubview(strLabel)
     }
     
