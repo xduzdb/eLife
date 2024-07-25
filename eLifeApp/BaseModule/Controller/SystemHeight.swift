@@ -8,9 +8,8 @@
 import Foundation
 import UIKit
 
-struct GlobalProperties {
-    static let shared = GlobalProperties()
-    var spaceHeight = 20.0
+struct SystemHeight {
+    static let spaceHeight = 20.0
 }
 
 struct JHColor {
