@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA277A9E2C4FCA6400DE279C /* JHViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA277A9D2C4FCA6400DE279C /* JHViewController.swift */; };
+		EA277AA22C4FD34200DE279C /* JHTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA277AA12C4FD34200DE279C /* JHTVCell.swift */; };
 		EA8F547B2C49FEA70098B0F8 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8F547A2C49FEA70098B0F8 /* HomeViewController.swift */; };
 		EA8F547D2C49FF430098B0F8 /* HomeTVModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8F547C2C49FF430098B0F8 /* HomeTVModel.swift */; };
 		EA8F547F2C4A17C30098B0F8 /* GlobalProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8F547E2C4A17C30098B0F8 /* GlobalProperties.swift */; };
@@ -28,9 +30,13 @@
 		EAE59EDF2C49117C0093E95B /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE59EDE2C49117C0093E95B /* ClockView.swift */; };
 		EAE59EE12C4911900093E95B /* ClockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE59EE02C4911900093E95B /* ClockViewController.swift */; };
 		EAE59EE32C4913EA0093E95B /* clock.png in Resources */ = {isa = PBXBuildFile; fileRef = EAE59EE22C4913E90093E95B /* clock.png */; };
+		EAEA2D282C5220AE003B33E9 /* iconBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EAEA2D262C5220AE003B33E9 /* iconBack@2x.png */; };
+		EAEA2D292C5220AE003B33E9 /* iconBack@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = EAEA2D272C5220AE003B33E9 /* iconBack@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA277A9D2C4FCA6400DE279C /* JHViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JHViewController.swift; sourceTree = "<group>"; };
+		EA277AA12C4FD34200DE279C /* JHTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JHTVCell.swift; sourceTree = "<group>"; };
 		EA8F547A2C49FEA70098B0F8 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		EA8F547C2C49FF430098B0F8 /* HomeTVModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTVModel.swift; sourceTree = "<group>"; };
 		EA8F547E2C4A17C30098B0F8 /* GlobalProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalProperties.swift; sourceTree = "<group>"; };
@@ -54,6 +60,8 @@
 		EAE59EDE2C49117C0093E95B /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 		EAE59EE02C4911900093E95B /* ClockViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockViewController.swift; sourceTree = "<group>"; };
 		EAE59EE22C4913E90093E95B /* clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clock.png; sourceTree = "<group>"; };
+		EAEA2D262C5220AE003B33E9 /* iconBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconBack@2x.png"; sourceTree = "<group>"; };
+		EAEA2D272C5220AE003B33E9 /* iconBack@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconBack@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +75,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EA277A992C4FBF5500DE279C /* FuncModule */ = {
+			isa = PBXGroup;
+			children = (
+				EA8F54822C4A4E170098B0F8 /* Assets */,
+				EA92D7A92C48C79600A02844 /* Model */,
+				EA92D7A82C48C79400A02844 /* View */,
+				EA92D7A72C48C79100A02844 /* Controller */,
+			);
+			path = FuncModule;
+			sourceTree = "<group>";
+		};
+		EA277A9A2C4FC02600DE279C /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				EAEA2D262C5220AE003B33E9 /* iconBack@2x.png */,
+				EAEA2D272C5220AE003B33E9 /* iconBack@3x.png */,
+				EA8F547E2C4A17C30098B0F8 /* GlobalProperties.swift */,
+				EA277A9D2C4FCA6400DE279C /* JHViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		EA277A9B2C4FC02D00DE279C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EAE59ED62C48FC930093E95B /* ToastView.swift */,
+				EA277AA12C4FD34200DE279C /* JHTVCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EA277A9C2C4FC02F00DE279C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		EA8F54762C49FDD90098B0F8 /* MenuModule */ = {
 			isa = PBXGroup;
 			children = (
@@ -104,6 +150,7 @@
 		EA8F54822C4A4E170098B0F8 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				EAE59EE22C4913E90093E95B /* clock.png */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -112,8 +159,9 @@
 			isa = PBXGroup;
 			children = (
 				EA92D7872C48A9CE00A02844 /* eLifeApp */,
-				EA8F54762C49FDD90098B0F8 /* MenuModule */,
 				EA92D7A62C48C78200A02844 /* BaseModule */,
+				EA8F54762C49FDD90098B0F8 /* MenuModule */,
+				EA277A992C4FBF5500DE279C /* FuncModule */,
 				EA92D7862C48A9CE00A02844 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -147,12 +195,9 @@
 		EA92D7A62C48C78200A02844 /* BaseModule */ = {
 			isa = PBXGroup;
 			children = (
-				EA8F54822C4A4E170098B0F8 /* Assets */,
-				EAE59EE22C4913E90093E95B /* clock.png */,
-				EA8F547E2C4A17C30098B0F8 /* GlobalProperties.swift */,
-				EA92D7A92C48C79600A02844 /* Model */,
-				EA92D7A82C48C79400A02844 /* View */,
-				EA92D7A72C48C79100A02844 /* Controller */,
+				EA277A9C2C4FC02F00DE279C /* Model */,
+				EA277A9B2C4FC02D00DE279C /* View */,
+				EA277A9A2C4FC02600DE279C /* Controller */,
 			);
 			path = BaseModule;
 			sourceTree = "<group>";
@@ -170,7 +215,6 @@
 			isa = PBXGroup;
 			children = (
 				EAE59ED42C48E6F20093E95B /* CommentView.swift */,
-				EAE59ED62C48FC930093E95B /* ToastView.swift */,
 				EAE59EDE2C49117C0093E95B /* ClockView.swift */,
 			);
 			path = View;
@@ -245,7 +289,9 @@
 				EAE59EE32C4913EA0093E95B /* clock.png in Resources */,
 				EAE59ED92C48FE810093E95B /* jmMainScreen710.png in Resources */,
 				EA92D7922C48A9D000A02844 /* Assets.xcassets in Resources */,
+				EAEA2D282C5220AE003B33E9 /* iconBack@2x.png in Resources */,
 				EA92D7A12C48BD0400A02844 /* AppIcon 2.png in Resources */,
+				EAEA2D292C5220AE003B33E9 /* iconBack@3x.png in Resources */,
 				EA92D7952C48A9D000A02844 /* Base in Resources */,
 				EA92D79F2C48B32100A02844 /* AppIcon.png in Resources */,
 				EA92D7902C48A9CE00A02844 /* Base in Resources */,
@@ -260,10 +306,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA277AA22C4FD34200DE279C /* JHTVCell.swift in Sources */,
 				EA8F54812C4A19A80098B0F8 /* HomeTVCell.swift in Sources */,
 				EAE59EE12C4911900093E95B /* ClockViewController.swift in Sources */,
 				EAE59ED32C48E33B0093E95B /* CommentTextModel.swift in Sources */,
 				EAE59EDF2C49117C0093E95B /* ClockView.swift in Sources */,
+				EA277A9E2C4FCA6400DE279C /* JHViewController.swift in Sources */,
 				EAE59ED72C48FC930093E95B /* ToastView.swift in Sources */,
 				EA92D78D2C48A9CE00A02844 /* ViewController.swift in Sources */,
 				EA8F547B2C49FEA70098B0F8 /* HomeViewController.swift in Sources */,

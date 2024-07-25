@@ -7,9 +7,8 @@
 
 import UIKit
 
-class HomeTVCell: UITableViewCell {
+class HomeTVCell: JHTVCell {
     
-    var originFrame: CGRect = .zero
     let strLabel            = UILabel()
     let spaceHeight         = GlobalProperties.shared.spaceHeight
     
@@ -23,23 +22,7 @@ class HomeTVCell: UITableViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
-    override var frame: CGRect
-    {
-        set {
-            let margin = 15.0
-            originFrame = newValue
-            super.frame = CGRect(
-                x: newValue.minX + margin,
-                y: newValue.minY,
-                width: newValue.width - margin * 2,
-                height: newValue.height
-            )
-        }
-        
-        get {
-            return originFrame
-        }
-    }
+    
     
     override func layoutSubviews() {
         super.layoutSubviews()

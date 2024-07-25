@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-public class ClockViewController: UIViewController {
+public class ClockViewController: JHViewController {
     let secView = UIView.init()///秒
     let minuteView = UIView.init()///分
     let hourView = UIView.init()///时

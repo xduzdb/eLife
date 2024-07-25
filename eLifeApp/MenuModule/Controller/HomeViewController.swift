@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-@objc public class HomeViewController: UIViewController {
+@objc public class HomeViewController: JHViewController {
     let modelArray  = HomeTVModel().getCellArray()
     let baseTable   = UITableView(frame: .zero, style: .grouped)
     

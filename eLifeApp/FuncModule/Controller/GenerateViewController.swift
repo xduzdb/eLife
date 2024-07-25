@@ -7,7 +7,7 @@
 
 import UIKit
 
-@objc public class GenerateViewController: UIViewController {
+@objc public class GenerateViewController: JHViewController {
     
     var testFlag =  true
     let commentView = CommentView()
