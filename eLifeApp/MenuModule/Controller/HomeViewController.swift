@@ -47,6 +47,9 @@ extension HomeViewController: UITableViewDelegate {
         } else if curArray == "凑字数评论" {
             let viewC = GenerateViewController()
             navigationController?.pushViewController(viewC, animated: true)
+        } else if curArray == "自己写的UITableView" {
+            let ViewC = UITableViewController()
+            
         } else {
             showToast(message: "请联系开发者修改:18730391026")
         }

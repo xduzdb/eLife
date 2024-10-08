@@ -10,7 +10,7 @@ import UIKit
 class HomeTVCell: JHTVCell {
     
     let strLabel            = UILabel()
-    let spaceHeight         = GlobalProperties.shared.spaceHeight
+    let spaceHeight         = SystemHeight.spaceHeight
     
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
